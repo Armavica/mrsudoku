@@ -1,0 +1,9 @@
+[package]
+name = "mrsudoku"
+version = "0.1.0"
+authors = ["Virgile Andreani <armavica@ulminfo.fr>"]
+
+[dependencies]
+
+[profile.release]
+debug = true
